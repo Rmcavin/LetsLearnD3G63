@@ -1,0 +1,10 @@
+#graph {
+  border: 3px black solid;
+  padding: 3px;
+}
+
+text {
+  fill: black;
+  font: 12px arial;
+  text-anchor: end;
+}
